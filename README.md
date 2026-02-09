@@ -14,7 +14,7 @@ Building production-grade AI that moves from research → real-world deployment.
 🤝 Looking for guidance in large-scale AI deployment, distributed inference, and MLOps  
 🌱 Exploring advanced deep learning, LLM systems, RAG architectures, and agent frameworks  
 💬 Ask me about ML systems, YOLO, FastAPI, real-time CV pipelines, and end-to-end AI products  
-⚡ I enjoy turning experimental AI ideas into production-ready systems
+⚡ I enjoy turning experimental AI ideas into production-ready systems  
 
 ---
 
@@ -35,18 +35,23 @@ Building production-grade AI that moves from research → real-world deployment.
 ## 🧠 Core Stack
 
 **AI / ML**  
-Python • TensorFlow • Scikit-learn • OpenCV • YOLO • NLP • LLM Basics  
+Python • TensorFlow • Scikit-learn • OpenCV • YOLO • NLP • LLM Fundamentals  
 
 **Backend & Systems**  
 FastAPI • Node.js • WebSockets • Firebase • Supabase • PostgreSQL • MongoDB  
 
 **Tools & Infra**  
-Docker (learning) • Render • GCP • Git • Linux  
+Render • Google Cloud • Git • Linux • Docker (Learning)  
 
 ---
 
 ## 📊 GitHub Stats
-(keep your existing stat widgets here)
+
+![](https://github-readme-stats.vercel.app/api?username=atharv-shewale&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=atharv-shewale&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-shewale&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -54,4 +59,8 @@ Docker (learning) • Render • GCP • Git • Linux
 
 • Interested in AI × Finance × Real-Time Systems  
 • Like building tools that automate repetitive work  
-• Focused on production impact over toy demos
+• Focused on production impact over toy demos  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=atharv-shewale&icon=0&color=0)](https://visitcount.itsvg.in)
