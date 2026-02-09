@@ -76,10 +76,6 @@ Designing and deploying production-grade AI systems that bridge research concept
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharv-shewale&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-shewale&theme=dark&hide_border=true&layout=compact" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=atharv-shewale&theme=dark&hide_border=true"/>
